@@ -1,4 +1,4 @@
-### 📊 Sales Prediction Using Machine Learning
+# 📊 Sales Prediction Using Machine Learning
 
 ## 📌 Overview
 
@@ -12,7 +12,7 @@ The project uses Exploratory Data Analysis (EDA) and compares two regression alg
 
 ---
 
-🎯 Objective
+## 🎯 Objective
 
 The main objectives of this project are to:
 
@@ -26,7 +26,7 @@ The main objectives of this project are to:
 
 ---
 
-📂 Dataset
+## 📂 Dataset
 
 The project uses an Advertising dataset containing advertising expenditure and corresponding sales data.
 
@@ -45,7 +45,7 @@ The dataset was checked for missing values, and no missing/null values were foun
 
 ---
 
-🔍 Exploratory Data Analysis
+## 🔍 Exploratory Data Analysis
 
 The following techniques were used:
 
@@ -66,7 +66,7 @@ Key EDA Findings
 
 ---
 
-🤖 Machine Learning Models
+## 🤖 Machine Learning Models
 
 1. Linear Regression
 
@@ -90,7 +90,7 @@ The performance of both models was compared on the same test dataset.
 
 ---
 
-📏 Evaluation Metrics
+## 📏 Evaluation Metrics
 
 The models were evaluated using:
 
@@ -114,7 +114,7 @@ Higher R² is better.
 
 ---
 
-📊 Model Comparison
+## 📊 Model Comparison
 
 The notebook generates a comparison table containing:
 
@@ -125,7 +125,7 @@ Random Forest| Calculated in notebook| Calculated in notebook| Calculated in not
 According to the test results in the notebook, Random Forest Regression performs better than Linear Regression, with lower prediction errors and a higher R² score.
 
 
-📈 Residual Analysis
+## 📈 Residual Analysis
 
 A residual plot was created for the Random Forest model to examine the difference between actual and predicted sales.
 
@@ -137,7 +137,7 @@ This helps evaluate whether the model's prediction errors show any noticeable pa
 
 ---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -147,7 +147,7 @@ This helps evaluate whether the model's prediction errors show any noticeable pa
 - Scikit-learn
 - Jupyter Notebook
 
-🚀 How to Run
+## 🚀 How to Run
 
 1. Clone the repository
 
@@ -171,7 +171,7 @@ Make sure the "Advertising.csv" dataset is available and update the dataset path
 
 ---
 
-💡 Key Takeaways
+## 💡 Key Takeaways
 
 - Advertising expenditure can be used to build a sales prediction model.
 - TV advertising shows the strongest relationship with sales in this dataset.
@@ -181,7 +181,7 @@ Make sure the "Advertising.csv" dataset is available and update the dataset path
 
 ---
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 This project can be further improved by:
 
@@ -194,6 +194,6 @@ This project can be further improved by:
 
 ---
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Komal Sharma

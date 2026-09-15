@@ -1,6 +1,6 @@
-📊 Sales Prediction Using Machine Learning
+### 📊 Sales Prediction Using Machine Learning
 
-📌 Overview
+## 📌 Overview
 
 This project focuses on predicting product sales based on advertising expenditure across three different channels:
 
